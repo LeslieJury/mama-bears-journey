@@ -5,7 +5,7 @@ This is a text-based console role-playing game written in Rust. In this game, yo
 
 I made this project to practice the basics of Rust, especially control flow, structs, loops, and methods.
 
-[Youtube Video Demonstration] (youtube)
+[Youtube Video Demonstration] (https://youtu.be/awgO9ZUVaJ8)
 
 ## Features & Technical Requirements
 Some key features of Rust I've used are...
